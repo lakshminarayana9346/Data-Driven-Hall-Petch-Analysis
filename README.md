@@ -35,11 +35,11 @@ where:
 
 ### Magnesium Alloys
 
-![Magnesium Hall-Petch Plot](Figures/magnesium_hall_petch.png)
+![Magnesium Hall-Petch Plot](Data-Driven-Hall-Petch-Analysis/Figures/magnesium_hall_petch.png)
 
 ### Aluminum Alloys
 
-![Aluminum Hall-Petch Plot](Figures/aluminum_hall_petch.png)
+![Aluminum Hall-Petch Plot](Data-Driven-Hall-Petch-Analysis/Figures/aluminum_hall_petch.png)
 
 ## Key Findings
 
