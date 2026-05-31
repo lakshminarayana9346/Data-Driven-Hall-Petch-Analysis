@@ -27,8 +27,19 @@ where:
 ## Results
 
 | Material System | k (MPa·µm¹ᐟ²) | σ₀ (MPa) | R² |
+|----------------|---------------|----------|--------|
 | Magnesium Alloys | 80.56 | 129.24 | 0.7193 |
 | Aluminum Alloys | 197.38 | 45.10 | 0.6584 |
+
+## Hall–Petch Plots
+
+### Magnesium Alloys
+
+![Magnesium Hall-Petch Plot](Figures/magnesium_hall_petch.png)
+
+### Aluminum Alloys
+
+![Aluminum Hall-Petch Plot](Figures/aluminum_hall_petch.png)
 
 ## Key Findings
 
