@@ -54,6 +54,20 @@ where:
 - Magnesium Hall–Petch plot
 - Aluminum Hall–Petch plot
 
+## References
+
+1. Dangwal, S., Edalati, K., Valiev, R.Z., & Langdon, T.G. (2023). *Breaks in the Hall–Petch Relationship after Severe Plastic Deformation of Magnesium, Aluminum, Copper, and Iron*. Crystals, 13(3), 413.
+
+   https://www.mdpi.com/2073-4352/13/3/413
+
+## Data Source
+
+The grain size and yield strength data analyzed in this project were extracted from Table A2 of the above publication. The table compiles experimental results from multiple peer-reviewed studies on aluminum and aluminum alloys processed through annealing, ECAP, HPT, and ARB techniques.
+
+## Disclaimer
+
+This project is intended for educational and research demonstration purposes. All original experimental data and corresponding credits belong to the respective authors and publications cited above.
+
 ## Author
 
 Gaddam Lakshmi Narayana  
